@@ -13,7 +13,8 @@
 
 
 # 🗿 Flow Chart :
-![Data_pipeline](Brainstorming and ideation.png)
+Here is the data pipeline :
+![Data_pipeline](flow.png)
 
 # 🧩 Project Flow :
 
